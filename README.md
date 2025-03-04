@@ -24,3 +24,4 @@ A simple program writen (undecided yet) to control the Gdakon 2026 LCD Display f
 
 ## Support
 - ☕ & ♥
+- 
