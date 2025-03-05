@@ -12,7 +12,10 @@ A simple program writen (undecided yet) to control the Gdakon 2026 LCD Display f
 ```
 
 ```
-
+## Possible programs for SSH
+- Tailscale (static ip)
+- Putty (non static ip :c )
+- VPN server (should be static)
 
 ## Usage
 - **Connection**: connect to the rasbery pi via SSH
