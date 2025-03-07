@@ -13,9 +13,7 @@ A simple program writen (undecided yet) to control the Gdakon 2026 LCD Display f
 
 ```
 ## Possible programs for SSH
-- Tailscale (static ip)
-- Putty (non static ip :c )
-- VPN server (should be static)
+- Tailscale (static ip) <- chosen program 
 
 ## Usage
 - **Connection**: connect to the rasbery pi via SSH
@@ -24,6 +22,10 @@ A simple program writen (undecided yet) to control the Gdakon 2026 LCD Display f
 - **Exit**: exit the program (the screen still works with the program included for the time being)
 - **Reboot**: reboot the rasbery pi
 - **Debug**: debug the program (for debug only lol)
+
+## Possible program/app on mobile device
+- **App**: written in Android studio prob
+- **Connection**: Tailscale/bash scripts
 
 ## Support
 - ☕ & ♥
