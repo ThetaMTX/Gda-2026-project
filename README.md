@@ -13,7 +13,8 @@ A simple program writen (undecided yet) to control the Gdakon 2026 LCD Display f
 
 ```
 ## Possible programs for SSH
-- Tailscale (static ip) <- chosen program 
+- Tailscale (static ip) <- chosen program
+
 
 ## Usage
 - **Connection**: connect to the rasbery pi via SSH
@@ -26,6 +27,7 @@ A simple program writen (undecided yet) to control the Gdakon 2026 LCD Display f
 ## Possible program/app on mobile device
 - **App**: written in Android studio prob
 - **Connection**: Tailscale/bash scripts
+- **API**: Api end point for getting the data for the app (is it online the connection status or queue)
 
 ## Support
 - ☕ & ♥
