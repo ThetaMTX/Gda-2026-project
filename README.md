@@ -24,7 +24,7 @@ A simple program writen (undecided yet) to control the Gdakon 2026 LCD Display f
 - **Reboot**: reboot the rasbery pi
 - **Debug**: debug the program (for debug only lol)
 
-##Uni
+## Uni
 - **PCB board**: two PCB boards (one for making sure it will be 5V and 2nd for the powerbank discharge and charge at the same time)
 
 ## Possible program/app on mobile device
