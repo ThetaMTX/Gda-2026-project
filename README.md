@@ -1,5 +1,6 @@
 ﻿# Gdakon 2026 LCD Display remote control
-A simple program writen (undecided yet) to control the Gdakon 2026 LCD Display from a Raspberry Pi. Access the screen remotely via phone app.
+A simple program writen in python and Kotlin to control the Gdakon 2026 LCD Display from a Raspberry Pi.
+Displaying media on screen (Raspberry) remotely via phone application.
 
 ## Features (to do)
 - [x] Display video on the screen
