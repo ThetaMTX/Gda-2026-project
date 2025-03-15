@@ -2,16 +2,23 @@
 A simple program writen (undecided yet) to control the Gdakon 2026 LCD Display from a Raspberry Pi. Access the screen remotely via phone app.
 
 ## Features (to do)
-- [ ] Display video on the screen
-- [ ] Clear the screen
-- [ ] Access the screen remotely via phone app
-- [ ] Display screen saver/battery pertcentage
-- [ ] Display time and date
+- [x] Display video on the screen
+- [x] Clear the screen
+- [x] Access the screen remotely via phone app
+- [x] Display screen saver/battery pertcentage
+- [ ] Display time and date (kinda useless maybe in the future)
 
-## Installation
+## Installation and starting
+```
+python -m venv venv
+venv\Scripts\activate
+```
+```
+pip install -r requirements.txt
+python API.py
 ```
 
-```
+
 ## Possible programs for SSH
 - Tailscale (static ip) <- chosen program
 
