@@ -20,12 +20,12 @@ python API.py
 ```
 
 
-## Possible programs for SSH
-- Tailscale (static ip) <- chosen program
+## Possible programs for static IP's 
+- Tailscale app (static ip for both windows and linux devices)
 
 
 ## Usage
-- **Connection**: connect to the rasbery pi via SSH
+- **Connection**: connect to the rasbery pi via Tailscale app
 - **Run**: run the program
 - **Control**: control the screen via the phone app
 - **Exit**: exit the program (the screen still works with the program included for the time being)
