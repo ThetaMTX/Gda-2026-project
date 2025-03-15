@@ -36,9 +36,9 @@ python API.py
 - **PCB board**: two PCB boards (one for making sure it will be 5V and 2nd for the powerbank discharge and charge at the same time)
 
 ## Possible program/app on mobile device
-- **App**: written in Android studio prob
-- **Connection**: Tailscale/bash scripts
-- **API**: Api end point for getting the data for the app (is it online the connection status or queue)
+- **App**: Written in Android studio Kotlin
+- **Connection**: Tailscale
+- **API**: Api end point for getting the data for the app 
 
 ## Support
 - ☕ & ♥
