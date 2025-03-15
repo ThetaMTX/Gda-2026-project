@@ -25,8 +25,8 @@ python API.py
 
 
 ## Usage
-- **Connection**: connect to the rasbery pi via Tailscale app
-- **Run**: run the program
+- **Connection**: connect to the rasbery pi to Tailscale app to get static IP
+- **Run**: run the program (API.py)
 - **Control**: control the screen via the phone app
 - **Exit**: exit the program (the screen still works with the program included for the time being)
 - **Reboot**: reboot the rasbery pi
