@@ -22,6 +22,7 @@ python API.py
 
 ## Possible programs for static IP's 
 - Tailscale app (static ip for both windows and linux devices)[hopefully no need for changing the IP righhhht ?]
+  (so far testing proves it and qutie neat VPN)
 
 
 ## Usage
