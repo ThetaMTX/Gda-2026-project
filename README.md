@@ -8,7 +8,10 @@ Displaying media on screen (Raspberry) remotely via phone application.
 - [x] Access the screen remotely via phone app
 - [x] Display screen saver/battery pertcentage
 - [ ] Display time and date (kinda useless maybe in the future)
-
+- [ ] Preplan the 3D printable case for the Raspberry + LCD screen + 2 modules (probably blender)
+- [ ] Test test test
+- [ ] Wifi test
+- [ ] Pre test in the hottel
 ## Installation and starting
 ```
 python -m venv venv
