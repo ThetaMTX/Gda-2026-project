@@ -39,6 +39,13 @@ python API.py
 ## Uni
 - **PCB board**: two PCB boards (one for making sure it will be 5V and 2nd for the powerbank discharge and charge at the same time)
 
+## 3D printing
+- [] **Folder**: add specific folder for 3D printing model (pref blender)
+- [] **Image**: add image representing how it would look like
+
+## 3D model
+-[] **Model**: needs to be specifically developed for the door frame
+
 ## Possible program/app on mobile device
 - [x] **App**: Written in Android studio Kotlin
 - [x] **Connection**: Tailscale
